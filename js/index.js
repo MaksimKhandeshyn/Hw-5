@@ -75,7 +75,7 @@ switch (monthNumber) {
     break;
 }
 // --4--
-// const emountDays = parseInt(prompt("Enter number of any month"));
+const emountDays = parseInt(prompt("Enter number of any month"));
 switch (emountDays) {
   case 1:
   case 3:
